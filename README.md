@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **devwithmaharshi@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tuVAVuyyAn2cQNBd_hBhXY8zLc5Fun4Q/view?usp=sharing)
+- 📄 Know about my experiences [Resume](/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
